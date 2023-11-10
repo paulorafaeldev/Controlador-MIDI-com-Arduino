@@ -5,7 +5,7 @@ Este repositório contém um projeto de controlador MIDI baseado em Arduino, que
 
 ### Código 
 ```cpp
- int valPot1 = 0;
+int valPot1 = 0;
 int lastValPot1 = 0;
 
 int valPot2 = 1;
