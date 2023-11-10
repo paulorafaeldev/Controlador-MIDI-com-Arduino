@@ -81,9 +81,6 @@ void loop() {
       //Serial.println(lastValPot7);
     }
   }
-
-
-
   delay(10);
 }
 
@@ -92,5 +89,4 @@ void mensagemMIDI(byte comando,byte data1, byte data2){
   Serial.write(data1);
   Serial.write(data2);
 }
-
 ``` 
