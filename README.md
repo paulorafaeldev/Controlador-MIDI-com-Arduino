@@ -1,5 +1,5 @@
 # Controlador MIDI com Arduino
-Este repositório contém um projeto de controlador MIDI baseado em Arduino, que permite controlar dispositivos MIDI, como sintetizadores e software de música, através de sensores e botões personalizados.
+Este repositório contém um projeto de controlador MIDI baseado em Arduino, que permite controlar software de música, através de 7 Potenciometro.
 
 <img src="img.jpg" style="width:100%;">
 
